@@ -1,0 +1,2 @@
+nguage: ruby
+rvm
